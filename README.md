@@ -9,12 +9,14 @@ Each file represents one day of hands-on practice building real AI applications.
 - Day 2 - Python lists, loops and functions
 - Day 3 - First AI app using Claude API
 - Day 4 - Interactive AI chatbot with memory
+- Day 5 - AI Writing Assistant (email, summarize, fix grammar, tone changer)
 
 ## Tech Stack
 - Python
 - Google Colab
 - Anthropic Claude API
 - GitHub
+- Prompt Engineering
 
 ## How to Run Any File
 
