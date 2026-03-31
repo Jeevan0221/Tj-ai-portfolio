@@ -1,4 +1,4 @@
-# TJ's AI Engineering Portfolio
+# TEJA's AI Engineering Portfolio
 
 ## About
 This repository documents my 28-day journey learning AI Engineering from scratch.
