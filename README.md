@@ -40,3 +40,7 @@ Sign up at "https://console.anthropic.com" to get your free Anthropic API key.
 
 ## Goal
 Securing a full-time AI Engineer role by mid 2026.
+
+## Certifications
+
+- Claude 101 - Certificate of Completion (Anthropic, 2026)
