@@ -10,6 +10,7 @@ Each file represents one day of hands-on practice building real AI applications.
 - Day 3 - First AI app using Claude API
 - Day 4 - Interactive AI chatbot with memory
 - Day 5 - AI Writing Assistant (email, summarize, fix grammar, tone changer)
+- Day 6 - AWS Cloud Intro (S3, EC2, Lambda concepts)
 
 ## Tech Stack
 - Python
@@ -17,6 +18,7 @@ Each file represents one day of hands-on practice building real AI applications.
 - Anthropic Claude API
 - GitHub
 - Prompt Engineering
+- AWS Cloud
 
 ## How to Run Any File
 
