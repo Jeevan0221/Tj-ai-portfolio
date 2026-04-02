@@ -43,4 +43,4 @@ Securing a full-time AI Engineer role by mid 2026.
 
 ## Certifications
 
-- Claude 101 - Certificate of Completion (Anthropic, 2026)
+- [Claude 101 - Certificate of Completion (Anthropic, 2026)](https://github.com/Jeevan0221/Tj-ai-portfolio/blob/main/Claude%20101.pdf)
