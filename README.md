@@ -11,6 +11,7 @@ Each file represents one day of hands-on practice building real AI applications.
 - Day 4 - Interactive AI chatbot with memory
 - Day 5 - AI Writing Assistant (email, summarize, fix grammar, tone changer)
 - Day 6 - AWS Cloud Intro (S3, EC2, Lambda concepts)
+- Day 8 - Machine Learning basics, built salary predictor using scikit-learn
 
 ## Tech Stack
 - Python
@@ -20,6 +21,7 @@ Each file represents one day of hands-on practice building real AI applications.
 - Prompt Engineering
 - AWS Cloud
 
+- Day 8 - Machine Learning basics, built salary predictor using scikit-learn
 ## How to Run Any File
 
 ### Step 1 - Open in Google Colab
