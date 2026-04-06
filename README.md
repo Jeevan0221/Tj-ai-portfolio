@@ -12,6 +12,7 @@ Each file represents one day of hands-on practice building real AI applications.
 - Day 5 - AI Writing Assistant (email, summarize, fix grammar, tone changer)
 - Day 6 - AWS Cloud Intro (S3, EC2, Lambda concepts)
 - Day 8 - Machine Learning basics, built salary predictor using scikit-learn
+- Day 9 - AI Data Analyst combining ML predictions with Claude API analysis
 
 ## Tech Stack
 - Python
@@ -20,8 +21,11 @@ Each file represents one day of hands-on practice building real AI applications.
 - GitHub
 - Prompt Engineering
 - AWS Cloud
+- scikit-learn(Machine Learning)
+- Machine Learning(Linear Regression)
 
-- Day 8 - Machine Learning basics, built salary predictor using scikit-learn
+
+
 ## How to Run Any File
 
 ### Step 1 - Open in Google Colab
@@ -29,7 +33,7 @@ Click the "Open in Colab" badge at the top of any notebook file.
 
 ### Step 2 - Set Up Your API Key Secret(Important!)
 1. Click the 🔑 key icon on the LEFT sidebar in Colab
-2. Click "Add new secret"
+2. Click "Add new secret."
 3. Name: ANTHROPIC_KEY
 4. Value: paste your API key from console.anthropic.com
 5. Toggle "Notebook access" to ON
