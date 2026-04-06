@@ -50,3 +50,4 @@ Securing a full-time AI Engineer role by mid 2026.
 ## Certifications
 
 - [Claude 101 - Certificate of Completion (Anthropic, 2026)](https://github.com/Jeevan0221/Tj-ai-portfolio/blob/main/Claude%20101.pdf)
+- [Introduction to Generative AI- Certificate of completion (Google, Sep2024)](https://github.com/Jeevan0221/Tj-ai-portfolio/blob/main/Generative%20AI.png)
