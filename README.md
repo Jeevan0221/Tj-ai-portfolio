@@ -3,51 +3,61 @@
 ## About
 This repository documents my 28-day journey learning AI Engineering from scratch.
 Each file represents one day of hands-on practice building real AI applications.
+Background: 8+ years as Senior Data Engineer (Bank of America, Verizon, Nielsen).
 
 ## Projects
-- Day 1 - First Python program and variables
-- Day 2 - Python lists, loops and functions
-- Day 3 - First AI app using Claude API
-- Day 4 - Interactive AI chatbot with memory
-- Day 5 - AI Writing Assistant (email, summarize, fix grammar, tone changer)
-- Day 6 - AWS Cloud Intro (S3, EC2, Lambda concepts)
-- Day 8 - Machine Learning basics, built salary predictor using scikit-learn
-- Day 9 - AI Data Analyst combining ML predictions with Claude API analysis
+
+### Day 1 - Hello Python
+Built my first Python program using variables and print statements.
+Tools: Python, Google Colab
+
+### Day 2 - Python Basics
+Learned Python lists, loops, and functions — the building blocks of all AI code.
+Tools: Python, Google Colab
+
+### Day 3 - First AI App
+Built my first Claude API application that sends prompts and receives AI responses.
+Tools: Python, Anthropic Claude API, Google Colab
+
+### Day 4 - AI Chatbot with Memory
+Built an interactive chatbot that remembers the full conversation history using conversation arrays.
+Stored API key securely using Colab Secrets — never exposed in code.
+Tools: Python, Claude API, Prompt Engineering, Colab Secrets
+
+### Day 5 - AI Writing Assistant
+Built a 5-feature writing tool: grammar checker, tone changer, summarizer, email writer, and headline generator.
+Tools: Python, Claude API, Prompt Engineering
+
+### Day 6 - AWS Cloud Fundamentals
+Studied core AWS services used in AI deployments.
+S3 (cloud storage), EC2 (virtual servers), Lambda (serverless functions).
+Tools: AWS Cloud
+
+### Day 8 - ML Salary Predictor
+Trained a Machine Learning model on 10 tech employee salaries.
+Model predicts salaries with only $1,680 average error on unseen data.
+Predicted my own AI Engineer salary: $145,840/year based on 8 years experience + AI skills.
+Tools: Python, scikit-learn, pandas, LinearRegression, train_test_split
+
+### Day 9 - AI Data Analyst
+Combined ML model with Claude API to automatically generate plain-English analysis reports from raw salary data.
+Claude explained model findings, identified data issues, and gave career recommendations.
+Tools: Python, scikit-learn, Claude API, pandas, Prompt Engineering
+
+### Day 10 - AI Resume Analyzer
+Paste any job description and resume — Claude scores the match out of 100, identifies missing keywords, and gives specific improvement suggestions.
+Scored my own resume at 62/100 against an AI Engineer job description with actionable feedback.
+Tools: Python, Claude API, Prompt Engineering
+
+## Certifications
+- [Anthropic Claude 101 Certificate of Completion](./Claude%20101.pdf)
 
 ## Tech Stack
 - Python
 - Google Colab
 - Anthropic Claude API
-- GitHub
 - Prompt Engineering
-- AWS Cloud
-- scikit-learn(Machine Learning)
-- Machine Learning(Linear Regression)
-
-
-
-## How to Run Any File
-
-### Step 1 - Open in Google Colab
-Click the "Open in Colab" badge at the top of any notebook file.
-
-### Step 2 - Set Up Your API Key Secret(Important!)
-1. Click the 🔑 key icon on the LEFT sidebar in Colab
-2. Click "Add new secret."
-3. Name: ANTHROPIC_KEY
-4. Value: paste your API key from console.anthropic.com
-5. Toggle "Notebook access" to ON
-
-### Step 3 - Run the code
-Press Shift+Enter on each cell from top to bottom.
-
-## Get Your Free API Key
-Sign up at "https://console.anthropic.com" to get your free Anthropic API key.
-
-## Goal
-Securing a full-time AI Engineer role by mid 2026.
-
-## Certifications
-
-- [Claude 101 - Certificate of Completion (Anthropic, 2026)](https://github.com/Jeevan0221/Tj-ai-portfolio/blob/main/Claude%20101.pdf)
-- [Introduction to Generative AI- Certificate of completion (Google, Sep2024)](https://github.com/Jeevan0221/Tj-ai-portfolio/blob/main/Generative%20AI.png)
+- scikit-learn (Machine Learning)
+- pandas (Data Analysis)
+- AWS Cloud (S3, EC2, Lambda)
+- GitHub
