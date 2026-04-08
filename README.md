@@ -49,6 +49,13 @@ Paste any job description and resume — Claude scores the match out of 100, ide
 Scored my own resume at 62/100 against an AI Engineer job description with actionable feedback.
 Tools: Python, Claude API, Prompt Engineering
 
+### Day 11 - Document Q&A System
+Built a 3-level document question answering system using Claude API.
+Level 1: Ask multiple questions at once and get structured answers.
+Level 2: Question by question loop — each question answered separately.
+Level 3: Automatic document summarizer that extracts Key Facts, Important Rules, and Red Flags without being asked.
+Tools: Python, Claude API, Prompt Engineering, f-strings, loops
+
 ## Certifications
 - [Anthropic Claude 101 Certificate of Completion](./Claude%20101.pdf)
 
