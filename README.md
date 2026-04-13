@@ -56,6 +56,12 @@ Level 2: Question by question loop — each question answered separately.
 Level 3: Automatic document summarizer that extracts Key Facts, Important Rules, and Red Flags without being asked.
 Tools: Python, Claude API, Prompt Engineering, f-strings, loops
 
+### Day 12 - PDF Reader and Q&A System
+Built a tool that reads real PDF files and answers questions about them using Claude API.
+Successfully read a real resume PDF and answered questions about skills, experience, and job history.
+Learned the difference between text-based and image-based PDFs and why it matters for AI tools.
+Tools: Python, PyPDF2, Claude API, Prompt Engineering
+
 ## Certifications
 - [Anthropic Claude 101 Certificate of Completion](./Claude%20101.pdf)
 
@@ -67,4 +73,5 @@ Tools: Python, Claude API, Prompt Engineering, f-strings, loops
 - scikit-learn (Machine Learning)
 - pandas (Data Analysis)
 - AWS Cloud (S3, EC2, Lambda)
+- PyPDF2 (PDF Processing)
 - GitHub
