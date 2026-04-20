@@ -62,6 +62,19 @@ Successfully read a real resume PDF and answered questions about skills, experie
 Learned the difference between text-based and image-based PDFs and why it matters for AI tools.
 Tools: Python, PyPDF2, Claude API, Prompt Engineering
 
+### Day 13 - AI Database Assistant (Text to SQL)
+Built an AI tool that connects to a real SQLite database and answers plain English questions by automatically generating and executing SQL queries.
+Asked 8 different business questions — Claude wrote perfect SQL for every single one including complex nested queries.
+No SQL knowledge needed to use the tool — just type your question in plain English.
+Tools: Python, SQLite3, Claude API, Prompt Engineering, Text-to-SQL
+
+### Day 14 - Web Interface for AI Database Assistant
+Built a professional web application using Gradio that any non-technical person can use through a browser.
+Features include: input box, submit button, clickable example questions, and clean formatted answers.
+Used share=True to generate a public URL accessible from any device anywhere in the world.
+Implemented error handling with try/except to prevent app crashes and show friendly error messages.
+Tools: Python, Gradio, SQLite3, Claude API, Prompt Engineering
+
 ## Certifications
 - [Anthropic Claude 101 Certificate of Completion](./Claude%20101.pdf)
 
@@ -74,4 +87,6 @@ Tools: Python, PyPDF2, Claude API, Prompt Engineering
 - pandas (Data Analysis)
 - AWS Cloud (S3, EC2, Lambda)
 - PyPDF2 (PDF Processing)
+- SQLite3 (Database)
+- Gradio (Web Interface)
 - GitHub
