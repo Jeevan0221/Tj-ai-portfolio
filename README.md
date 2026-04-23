@@ -75,6 +75,14 @@ Used share=True to generate a public URL accessible from any device anywhere in 
 Implemented error handling with try/except to prevent app crashes and show friendly error messages.
 Tools: Python, Gradio, SQLite3, Claude API, Prompt Engineering
 
+### Day 15 - Unified AI Platform with Multiple Tabs
+Built a complete AI platform combining the Database Assistant and Document Assistant into one web application.
+Tab 1: Ask plain English questions about employee database — AI writes SQL automatically.
+Tab 2: Upload any PDF document and ask questions about its contents.
+Both tools accessible through one clean public URL with no coding required.
+Debugged a silent None return error by isolating and testing each function independently.
+Tools: Python, Gradio, SQLite3, PyPDF2, Claude API, Prompt Engineering
+
 ## Certifications
 - [Anthropic Claude 101 Certificate of Completion](./Claude%20101.pdf)
 
