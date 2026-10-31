@@ -3,7 +3,7 @@
 ## About
 This repository documents my 28-day journey learning AI Engineering from scratch.
 Each file represents one day of hands-on practice building real AI applications.
-Background: 8+ years as Senior Data Engineer (Bank of America, Verizon, Nielsen).
+
 
 ## Projects
 
